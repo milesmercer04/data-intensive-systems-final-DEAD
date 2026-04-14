@@ -1,0 +1,16 @@
+May 2024 OEWS Estimates,Unnamed: 1
+,
+Occupational Employment and Wage Statistics (OEWS) Survey,
+"Bureau of Labor Statistics, Department of Labor",
+website:  www.bls.gov/oes,
+email: oewsinfo@bls.gov,
+,
+,
+File name,File contents
+natsector_M2024_dl.xlsx,"National, sector NAICS, cross-ownership estimates"
+nat3d_M2024_dl.xlsx,"National, 3-digit NAICS, cross-ownership estimates"
+nat4d_M2024_dl.xlsx,"National, 4-digit NAICS, cross-ownership estimates "
+nat5d_6d_M2024_dl.xlsx,"National, 5- and 6-digit  NAICS, cross-ownership estimates for selected sampled 5- and 6-digit NAICS"
+national_owner_M2024_dl.xlsx,"National, cross-industry, by public versus private ownership and by detailed ownership levels"
+nat3d_owner_M2024_dl.xlsx,"National, 3-digit NAICS, by ownership for schools and hospitals only"
+nat4d_owner_M2024_dl.xlsx,"National, 4-digit NAICS, by ownership for schools and hospitals only"
